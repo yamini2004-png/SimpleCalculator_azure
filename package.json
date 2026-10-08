@@ -1,0 +1,1 @@
+{"name":"simple-calculator-azure","version":"1.0.0","description":"Simple Calculator for Azure App Service","main":"server.js","scripts":{"start":"node server.js"}}
